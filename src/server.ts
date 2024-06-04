@@ -71,13 +71,13 @@ import { Car, cars as cars_list } from './cars';
      // Add a new car to the list
   app.post("/cars",
   (req: Request, res: Response) => {
-    const { id, type, model, cost, make } = req.body;
+    const { make, type, model, cost, id } = req.body;
 
     if (!id || !type || !model || !cost) {
       return res.status(400).send(`id, type, model, make, and cost are required`);
     }
 
-    const newCar: Car = { id, type, model, cost, make };
+    const newCar: Car = { make, type, model, cost, id };
     cars.push(newCar);
 
     return res.status(201).send(newCar);
