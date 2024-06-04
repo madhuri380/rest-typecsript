@@ -71,12 +71,12 @@ Add an endpoint to GET a list of cars.
 2. @TODO `./src/server.ts/` 
 Add an endpoint to get a specific car.
 
-
+![alt text](https://github.com/madhuri380/rest-typecsript/blob/master/output/Screenshot%202024-06-04%20at%2010.52.49%E2%80%AFAM.png)
 
 3. @TODO `./src/server.ts/` 
 Add an endpoint to post a new car to our list.
 
-
+![alt text](https://github.com/madhuri380/rest-typecsript/blob/master/output/Screenshot%202024-06-04%20at%2010.58.07%E2%80%AFAM.png)
 
 
 
