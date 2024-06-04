@@ -60,3 +60,23 @@ Try creating a method "concat" to concatenate two strings.
 
 5. @TODO `./src/unit-test-examples/units.tests.ts`
 Try creating a new describe block for the "concat" method.
+
+***
+# Outputs
+1. @TODO `./src/server.ts/`
+Add an endpoint to GET a list of cars.
+
+![alt text](https://github.com/madhuri380/rest-typecsript/blob/master/output/Screenshot 2024-06-04 at 10.49.32 AM.png)
+
+2. @TODO `./src/server.ts/` 
+Add an endpoint to get a specific car.
+
+
+
+3. @TODO `./src/server.ts/` 
+Add an endpoint to post a new car to our list.
+
+
+
+
+
