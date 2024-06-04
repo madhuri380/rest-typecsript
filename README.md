@@ -55,12 +55,6 @@ Add an endpoint to get a specific car.
 3. @TODO `./src/server.ts/` 
 Add an endpoint to post a new car to our list.
 
-4. @TODO `./src/unit-test-examples/units.ts`
-Try creating a method "concat" to concatenate two strings.
-
-5. @TODO `./src/unit-test-examples/units.tests.ts`
-Try creating a new describe block for the "concat" method.
-
 ***
 # Outputs
 1. @TODO `./src/server.ts/`
