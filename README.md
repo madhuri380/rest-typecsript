@@ -66,7 +66,7 @@ Try creating a new describe block for the "concat" method.
 1. @TODO `./src/server.ts/`
 Add an endpoint to GET a list of cars.
 
-![alt text](https://github.com/madhuri380/rest-typecsript/blob/master/output/Screenshot 2024-06-04 at 10.49.32 AM.png)
+![alt text](https://github.com/madhuri380/rest-typecsript/blob/master/output/Screenshot%202024-06-04%20at%2010.49.32%E2%80%AFAM.png)
 
 2. @TODO `./src/server.ts/` 
 Add an endpoint to get a specific car.
