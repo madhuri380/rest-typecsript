@@ -55,6 +55,10 @@ Add an endpoint to get a specific car.
 3. @TODO `./src/server.ts/` 
 Add an endpoint to post a new car to our list.
 
+4. @TODO try creating a new describe block for the "concat" method
+// it should contain an it block for each it statement in the units.ts @TODO.
+// don't forget to import the method
+
 ***
 # Outputs
 1. @TODO `./src/server.ts/`
@@ -72,5 +76,11 @@ Add an endpoint to post a new car to our list.
 
 ![alt text](https://github.com/madhuri380/rest-typecsript/blob/master/output/Screenshot%202024-06-04%20at%2010.58.07%E2%80%AFAM.png)
 
+4. @TODO try creating a new describe block for the "concat" method
+// it should take two string paramaters.
+// it should return one string combining the two strings.
+// it should throw an error if either of the strings are empty.
+
+![alt text](https://github.com/madhuri380/rest-typecsript/blob/master/output/Screenshot%202024-06-04%20at%207.26.08%E2%80%AFPM.png)
 
 
