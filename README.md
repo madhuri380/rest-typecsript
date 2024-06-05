@@ -55,8 +55,22 @@ Add an endpoint to get a specific car.
 3. @TODO `./src/server.ts/` 
 Add an endpoint to post a new car to our list.
 
-4. @TODO `./src/unit-test-examples/units.ts`
-Try creating a method "concat" to concatenate two strings.
+***
+# Outputs
+1. @TODO `./src/server.ts/`
+Add an endpoint to GET a list of cars.
 
-5. @TODO `./src/unit-test-examples/units.tests.ts`
-Try creating a new describe block for the "concat" method.
+![alt text](https://github.com/madhuri380/rest-typecsript/blob/master/output/Screenshot%202024-06-04%20at%2010.49.32%E2%80%AFAM.png)
+
+2. @TODO `./src/server.ts/` 
+Add an endpoint to get a specific car.
+
+![alt text](https://github.com/madhuri380/rest-typecsript/blob/master/output/Screenshot%202024-06-04%20at%2010.52.49%E2%80%AFAM.png)
+
+3. @TODO `./src/server.ts/` 
+Add an endpoint to post a new car to our list.
+
+![alt text](https://github.com/madhuri380/rest-typecsript/blob/master/output/Screenshot%202024-06-04%20at%2010.58.07%E2%80%AFAM.png)
+
+
+
