@@ -61,6 +61,8 @@ Add an endpoint to post a new car to our list.
 // it should contain an it block for each it statement in the units.ts @TODO.
 // don't forget to import the method
 
+6. PR from master via branch ruleset
+
 ***
 # Outputs
 1. @TODO `./src/server.ts/`
